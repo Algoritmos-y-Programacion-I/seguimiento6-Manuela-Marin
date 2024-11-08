@@ -4,6 +4,7 @@ public class Species {
 
 	private String name;
 	private String scientificName;
+	
 
 	public Species(String name, String scientificName) {
 
